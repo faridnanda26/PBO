@@ -1,4 +1,4 @@
-package week7;
+package week7.abstrak;
 
 public class Sapi extends Hewan{
     Sapi(String nama, int jumKaki, boolean bisaTerbang){

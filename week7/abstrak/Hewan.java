@@ -1,4 +1,4 @@
-package week7;
+package week7.abstrak;
 
 public abstract class Hewan {
     private String nama;
